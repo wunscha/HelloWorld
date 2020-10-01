@@ -1,0 +1,2 @@
+Kann man eine Datei via Pull-Request dem main-Branch hinzufügen?
+...mal schaun
